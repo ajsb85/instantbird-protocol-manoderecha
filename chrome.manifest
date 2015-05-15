@@ -1,0 +1,12 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+skin    prpl-manoderecha     classic/1.0 chrome/skin/
+locale	prpl-manoderecha	en-US		chrome/locale/en-US/
+
+component {d292dc1c-1b71-4ab4-9dea-a4477aa853e2} components/manoderecha.js
+contract @mozilla.org/chat/manoderecha;1 {d292dc1c-1b71-4ab4-9dea-a4477aa853e2}
+category im-protocol-plugin prpl-manoderecha @mozilla.org/chat/manoderecha;1
+
+resource prpl-manoderecha modules/
