@@ -20,8 +20,8 @@
 			<Description>
 				<em:locale>en-US</em:locale>
 				<em:name>manoderecha</em:name>
-				<em:creator>Alexander Salas</em:creator>
-				<em:translator>Fatma Youssef</em:translator>
+				<em:creator>Alexander J. Salas B.</em:creator>
+				<em:translator>Fatma Youssef M.</em:translator>
 				<em:description>Assists to setup a chat account for manoderecha.mx</em:description>
 			</Description>
 		</em:localized>
@@ -29,8 +29,8 @@
 			<Description>
 				<em:locale>es</em:locale>
 				<em:name>manoderecha</em:name>
-				<em:creator>Alexander Salas</em:creator>
-				<em:translator>Fatma Youssef</em:translator>
+				<em:creator>Alexander J. Salas B.</em:creator>
+				<em:translator>Fatma Youssef M.</em:translator>
 				<em:description>Asistente de configuración de una cuenta de Chat para manoderecha.mx</em:description>
 			</Description>
 		</em:localized>
