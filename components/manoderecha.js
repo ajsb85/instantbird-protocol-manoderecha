@@ -1,14 +1,13 @@
 /* This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
-
+ 
 const Cu = Components.utils;
-
-Cu.import("resource:///modules/imXPCOMUtils.jsm");
-Cu.import("resource:///modules/jsProtoHelper.jsm");
-Cu.import("resource:///modules/xmpp.jsm");
-Cu.import("resource:///modules/xmpp-session.jsm");
-Cu.import("resource:///modules/xmpp-xml.jsm");
+Cu.import("resource://app/modules/imXPCOMUtils.jsm");
+Cu.import("resource://app/modules/jsProtoHelper.jsm");
+Cu.import("resource://app/modules/xmpp.jsm");
+Cu.import("resource://app/modules/xmpp-session.jsm");
+Cu.import("resource://app/modules/xmpp-xml.jsm");
 
 XPCOMUtils.defineLazyGetter(this, "_", function()
   l10nHelper("chrome://prpl-manoderecha/locale/manoderecha.properties")
